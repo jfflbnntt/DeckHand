@@ -26,7 +26,10 @@ Mage Wars Tools
 - Make suggestions based on category, mage, points remaining, and current cards in deck
 - Save multiple deck configurations, group by mage, tactic types, etc
 
+Random Notes
+------------
+
 SL: 
-How do you envision the layout of the interface?
-List of other (non-Magic) deckbuilders for reference?
-Extended Feature: Saved deck comparison simulations.
+- How do you envision the layout of the interface?
+- List of other (non-Magic) deckbuilders for reference?
+- Extended Feature: Saved deck comparison simulations.
