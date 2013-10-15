@@ -25,6 +25,7 @@ Mage Wars Tools
 - Automatically calculate spell points based on mage deck
 - Make suggestions based on category, mage, points remaining, and current cards in deck
 - Save multiple deck configurations, group by mage, tactic types, etc
+- Create and configure custom and pre-defined 'packets' of cards (2-4 or so) that work well together or have a specific tactic or theme
 
 Random Notes
 ------------
